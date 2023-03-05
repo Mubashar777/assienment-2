@@ -1,0 +1,45 @@
+
+ 
+.img1 img{
+    display: inline-block;
+    height: 100px;
+    width: 140px;
+    background-color:rgba(139, 0, 139, 0.507);
+    
+}
+.heading h1{
+    display: inline-block;
+    background-color: rgba(139, 0, 139, 0.507);
+    margin-top: 0px;
+
+}
+.section1{ 
+    
+    margin-left: 75px;
+    display: inline-block;
+    height: 300px;
+    width: 350px;
+    background-color: blue;
+}
+.section2{
+    
+    margin-left: 75px;
+    display: inline-block;
+    height: 300px;
+    width: 350px;
+    background-color:rgb(75, 226, 38);
+}
+.section3{ 
+    text-align: center;
+    margin-left: 75px;
+    display: inline-block;
+    height: 300px;
+    width: 350px;
+    background-color: magenta;
+    
+
+}
+.images img{
+    margin-top: 30px;
+    margin-left: 75px;
+}
